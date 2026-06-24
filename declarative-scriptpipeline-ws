@@ -1,6 +1,0 @@
-pipeline
-{
-    stage('Build'){
-         echo 'Hello this is in building stage...'
-    }
-}
